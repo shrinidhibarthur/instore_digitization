@@ -1,0 +1,556 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#ACIP-554203] Cart &amp; Checkout: In-store digitization of orders</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.safeway.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [ACIP-554203]&nbsp;<a href="https://jira.safeway.com/browse/ACIP-554203">Cart &amp; Checkout: In-store digitization of orders</a>
+            <span class="subText">
+               Created: 24/Mar/26                   &nbsp;Updated: 20/Apr/26
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Open</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://jira.safeway.com/secure/BrowseProject.jspa?id=14653">ACI Digital Portfolio</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Not Yet Prioritized
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="pchau11" id="word_reporter_pchau11" href="https://jira.safeway.com/secure/ViewProfile.jspa?name=pchau11">Priyanka Chaudhary</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-4477254-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue Links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Cloners</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                is cloned by
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-556262">
+                     ACIP-556262                 </a>
+            </td>
+            <td>
+                Cart &amp; Checkout: In-store digitizatio...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Dev-Tasks</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562777">
+                     ACIP-562777                 </a>
+            </td>
+            <td>
+                [Cart] In-Store Digitization - Create...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562780">
+                     ACIP-562780                 </a>
+            </td>
+            <td>
+                [Order] In-Store Digitization - Suppo...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562782">
+                     ACIP-562782                 </a>
+            </td>
+            <td>
+                [Cart] In-Store Digitization - Cart H...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562785">
+                     ACIP-562785                 </a>
+            </td>
+            <td>
+                [Cart] In-Store Digitization - Suppor...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562786">
+                     ACIP-562786                 </a>
+            </td>
+            <td>
+                [Cart] In-Store Digitization - Edit I...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562789">
+                     ACIP-562789                 </a>
+            </td>
+            <td>
+                [Checkout] In-Store Digitization - Su...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562793">
+                     ACIP-562793                 </a>
+            </td>
+            <td>
+                [Checkout] In-Store Digitization - Ex...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562796">
+                     ACIP-562796                 </a>
+            </td>
+            <td>
+                [Checkout] In-Store Digitization - Pr...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562799">
+                     ACIP-562799                 </a>
+            </td>
+            <td>
+                [Order] In-Store Digitization - Creat...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562801">
+                     ACIP-562801                 </a>
+            </td>
+            <td>
+                [Order] In-Store Digitization - Exclu...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-563755">
+                     ACIP-563755                 </a>
+            </td>
+            <td>
+                [Cart] In-Store Digitization - Spike ...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-563759">
+                     ACIP-563759                 </a>
+            </td>
+            <td>
+                [Checkout] In-Store Digitization - Sp...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-563764">
+                     ACIP-563764                 </a>
+            </td>
+            <td>
+                [Checkout] In-Store Digitization -Spi...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                Dev-Tasks For
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-563765">
+                     ACIP-563765                 </a>
+            </td>
+            <td>
+                [Order] In-Store Digitization - Spike...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Link:</b></td>
+                <td id="customfield_10000-4477254-value" class="value" bgcolor="#ffffff" width="80%">
+    <a class="aui-label ghx-label-1" href="https://jira.safeway.com/browse/ACIP-537202">
+        Cart &amp; Checkout: In-store digitization of orders
+    </a>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Pillar:</b></td>
+                <td id="customfield_11600-4477254-value" class="value" bgcolor="#ffffff" width="80%">    Shopper Experience
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Team:</b></td>
+                <td id="customfield_10600-4477254-value" class="value" bgcolor="#ffffff" width="80%"><img class="jpo-team-field-avatar" src="https://jira.safeway.com/download/resources/com.atlassian.teams:jpo-wr-images-and-fonts/images/teams/default-avatar.svg"/><span>Shopper Experience - Cart and Checkout</span><img class="jpo-team-field-shareable-icon" src="https://jira.safeway.com/download/resources/com.atlassian.teams:jpo-wr-images-and-fonts/images-common/misc/shared-red.svg"/></td>
+            </tr>
+                                                                                                                                                                                                                                                                                                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>MPO ID:</b></td>
+                <td id="customfield_13305-4477254-value" class="value" bgcolor="#ffffff" width="80%">
+
+
+    <div class="shorten" id="customfield_13305-field">
+        							<span>27425 Associate expereince: order management via AcuView for Custom Cakes</span>			            </div>
+</td>
+            </tr>
+                                                                                    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Initiative details can be found here: <a href="https://jira.safeway.com/browse/ACIP-536162*" class="external-link" rel="nofollow">https://jira.safeway.com/browse/ACIP-536162*</a></p>
+
+<p><b>Overview:</b> For In-store orders (Bakery and Deli service dept), associates can take the order using ACI tablets digital order form for long prep items.</p>
+
+<p><b>Detailed requirements:</b> <a href="https://confluence.safeway.com/spaces/CDT/pages/597829096/Requirements+Areas+of+Work" class="external-link" target="_blank" rel="nofollow noopener">https://confluence.safeway.com/spaces/CDT/pages/597829096/Requirements+Areas+of+Work</a></p>
+<ul>
+	<li><b>Service Dept</b> - Bakery and Deli</li>
+	<li><b>Use Cases:</b> Ability for associates to take order digitally on tablet for: 1) Bakery Order 2) Bakery Catering Tray order 3) Deli Party Trays 4) Deli Holiday Meals</li>
+	<li><b>Order Type</b> - In-Store MTO Order</li>
+</ul>
+
+
+<p><b>Acceptance Criteria:</b></p>
+
+<p>1) Attributes</p>
+<ul>
+	<li>Support new attribute to support and enable in-store digital intake orders</li>
+	<li>Might require additional attributes for capturing <ins>associate</ins> info as they will be taking this order for the customer,</li>
+</ul>
+
+
+<p>2) There will be NO payment when order is captured, so support orders without payment</p>
+
+<p>3) Process these orders as in-store orders (NOT ecom orders, not follow ecommerce workflow)</p>
+
+<p>5) No picker (AcuPick) integration. Order should go to DOMS.</p>
+
+<p>6) No Slot integration</p>
+
+<p>7) Associate can initiated Cancel Order for this cart but C&amp;C dont have to make any changes its out of scope to update status for the order </p>
+
+<p>8) Cart category will be 1P_MTO_Kiosk </p>
+
+<p>9) Pricing services is in scope (similar to Kiosk)</p>
+
+<p>8) Associate can initiate Edit Order for this cart <b><font color="#de350b">(POST MLP)</font></b></p>
+
+<p><font color="#4c9aff"><b>Added scope:</b> </font></p>
+
+<p><font color="#4c9aff"><b>9) If the order for creative cake and custom tray it should not have price (as price is TBD)</b><br/>
+<b>10) when cart just have TBD item dont show price</b> </font></p>
+
+<p><font color="#4c9aff"><b>11) If the cart is mixed , fixed price item and creative cake or custom tray price will only be should for fixed price item creative cake or custom tray should show $0 .00 and est total should be $0.00</b></font></p>
+
+<p><font color="#4c9aff"><b>12)</b> <b>Field should be added for message currently we have 2 feild for message going forward its should be 3</b></font></p>
+
+<p><font color="#4c9aff"><b>-Decoration instruction</b> </font><br/>
+<font color="#4c9aff"><b>-message /in</b></font><br/>
+<font color="#4c9aff"><b>-additional message</b></font></p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Mon Apr 20 15:23:31 UTC 2026 by Shrinidhi Srinivasa Bharathur using Jira 10.3.6#10030006-sha1:0dc21a711362757421d62af2e50bcb9585207f88.
+
+</body>
+</html>

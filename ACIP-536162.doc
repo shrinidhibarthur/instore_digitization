@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#ACIP-536162] Build Q1 26: Associate: In-store Order Intake Digitization</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.safeway.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [ACIP-536162]&nbsp;<a href="https://jira.safeway.com/browse/ACIP-536162">Build Q1 26: Associate: In-store Order Intake Digitization</a>
+            <span class="subText">
+               Created: 04/Feb/26                   &nbsp;Updated: 16/Apr/26
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">DEVELOPMENT</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://jira.safeway.com/secure/BrowseProject.jspa?id=14653">ACI Digital Portfolio</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Feature
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="PSHAH32" id="word_reporter_PSHAH32" href="https://jira.safeway.com/secure/ViewProfile.jspa?name=PSHAH32">Priyal Shah</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="PSHAH32" id="word_assignee_PSHAH32" href="https://jira.safeway.com/secure/ViewProfile.jspa?name=PSHAH32">Priyal Shah</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-4408231-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            DCAT-OKR2, DiffMerch, FY25                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Pillar:</b></td>
+                <td id="customfield_11600-4408231-value" class="value" bgcolor="#ffffff" width="80%">    Omni Channel
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Parent Link:</b></td>
+                <td id="customfield_10601-4408231-value" class="value" bgcolor="#ffffff" width="80%">
+<img class="jpo-parent-field-issue-type-icon" src="https://jira.safeway.com/secure/viewavatar?size=xsmall&amp;avatarId=10314&amp;avatarType=issuetype"/><a class="jpo-parent-field-issue-key" href="https://jira.safeway.com/browse/ACIP-248763">ACIP-248763</a><span>26928 Custom Cakes solution on Ecom</span></td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Driving Team:</b></td>
+                <td id="customfield_12215-4408231-value" class="value" bgcolor="#ffffff" width="80%">    OCH : OMNI
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Enabler:</b></td>
+                <td id="customfield_12210-4408231-value" class="value" bgcolor="#ffffff" width="80%">    No
+</td>
+            </tr>
+                                                                                                                                                                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>MPO ID:</b></td>
+                <td id="customfield_13305-4408231-value" class="value" bgcolor="#ffffff" width="80%">
+
+
+    <div class="shorten" id="customfield_13305-field">
+        							<span>27425 Associate expereince: order management via AcuView for Custom Cakes</span>			            </div>
+</td>
+            </tr>
+                                                                                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>LPM Score:</b></td>
+                <td id="customfield_12209-4408231-value" class="value" bgcolor="#ffffff" width="80%">    0
+</td>
+            </tr>
+                                                                </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Vision:</b> Provide ACI service department store associates with a simple digital interface to capture in-store customer orders efficiently.</p>
+
+<p><b>What problem are we solving:</b> Store associates currently rely on paper-based forms for taking catering and/or cakes orders from walk-in customers in Bakery &amp; Deli departments.These forms are stored and used for daily order planning within the respective depts. </p>
+
+<p><b>Initiative Overview:</b> <a href="https://rxsafeway.sharepoint.com/:p:/r/sites/Omnichannel/Shared%20Documents/3.%20Projects%20_%20Pilots/In-Store%20Digitization/In-Store%20Digitization%20of%20Orders%20KickOff.pptx?d=w2a654ac102a84e83b736e91f081e7029&amp;csf=1&amp;web=1&amp;e=KB8Frw" class="external-link" target="_blank" rel="nofollow noopener">In-Store Digitization of Orders KickOff.pptx</a></p>
+
+<p><b>Architecture:</b> <a href="https://confluence.safeway.com/pages/viewpage.action?pageId=601373704&amp;spaceKey=DPIM&amp;title=Solution%2BArchitecture%2B-%2BDigitize%2BIn-Store%2BLong-Prep%2BOrdering" class="external-link" target="_blank" rel="nofollow noopener">https://confluence.safeway.com/pages/viewpage.action?pageId=601373704&amp;spaceKey=DPIM&amp;title=Solution%2BArchitecture%2B-%2BDigitize%2BIn-Store%2BLong-Prep%2BOrdering</a></p>
+
+<p><b>How will digitization of in-store orders help?:</b></p>
+
+<p><b>1) Customers</b> will be able to get order Updates communicate real-time updates on their in-store orders</p>
+
+<p><b>2) Associates:</b> </p>
+<ul>
+	<li>  <b><em>DIGITIZE</em></b> High touch, high volume order entry filled electronically​​</li>
+	<li> <b><em>Pricing &amp; ASSORTMENT</em></b>  tailored based on store​ in digital order forms​</li>
+	<li><b><em>CENTRALIZED ORDER Mgmt.</em></b> Streamlined order queue for all ecom and in-store orders ​​</li>
+	<li><b><em>Flexibility</em></b> orders can be edited, updated, or cancelled easily</li>
+</ul>
+
+
+<p><b>c) For ACI:</b> </p>
+<ul>
+	<li><b><em>Customer Insights</em></b> Better visibility into in-store customer orders​</li>
+	<li><b><em>Consistent record</em></b> <b><em>keeping</em></b>  Maintain consistent record keeping for all in-store orders​</li>
+	<li><b><em>Personalize &amp;</em></b> <b><em>UPSELL</em></b> Data driven insights to personalize and upsell, delight customer on their celebratory moments </li>
+</ul>
+
+
+<p><b>Which Service Dept. are in Scope?:</b> We will start with Bakery and Deli service dept.</p>
+
+<p><b>What is the current process for in-store order forms?</b> Currently, bakery and Deli associates rely on paper based forms for bakery and deli, holiday meals orders. Current forms can be found <a href="#here" target="_blank" rel="noopener">here: </a> <a href="https://rxsafeway.sharepoint.com/:f:/r/sites/Omnichannel/Shared%20Documents/3.%20Projects%20_%20Pilots/In-Store%20Digitization/Order%20Forms?csf=1&amp;web=1&amp;e=kWgWiS" class="external-link" target="_blank" rel="nofollow noopener">Order Forms</a></p>
+
+<p><b>What is the proposed process for in-store order?</b></p>
+<ul>
+	<li>Customer comes to the store or calls the bakery/deli associate</li>
+	<li>Associate uses ACI tablet (iPAD) to take the order digitally (instead of paper forms)</li>
+	<li>No Payment info will be collected during order intake (Payment at POS at pickup)</li>
+	<li>No Loyalty info collected during order entry</li>
+</ul>
+
+
+<p><b>Requirements:</b> <a href="https://confluence.safeway.com/spaces/CDT/pages/611350504/Q1+2026+Build+-+In-Store+Digitization" class="external-link" target="_blank" rel="nofollow noopener">https://confluence.safeway.com/spaces/CDT/pages/611350504/Q1+2026+Build+-+In-Store+Digitization</a></p>
+
+<p><b>UX:</b> <a href="https://www.figma.com/design/dBeyIoTJj2W259AeczVcsL/Digital-order-In-take-forms?node-id=786-14069&amp;p=f&amp;t=vUdrYZZyjya3XIfs-0" class="external-link" target="_blank" rel="nofollow noopener">https://www.figma.com/design/dBeyIoTJj2W259AeczVcsL/Digital-order-In-take-forms?node-id=786-14069&amp;p=f&amp;t=vUdrYZZyjya3XIfs-0</a></p>
+
+<p><b>How will we measure success of this?</b></p>
+
+<p> <b>1) Engagement &amp; Adoption</b> - (goal is 50% of in-store orders digitzed)</p>
+<ol>
+	<li>Store/Dept. Adoption Rate​</li>
+</ol>
+
+
+<ul>
+	<li>% using tablet for order entry​</li>
+</ul>
+
+
+<p><b>2. Data Insights:</b> Customer Order Customization Attribute Coverage to get Insights on customization of in-store orders​</p>
+
+<p><b>3. Operational Efficiency:</b></p>
+<ul>
+	<li>Time taken per order (Goal = order taken in &lt;5 mins)</li>
+</ul>
+
+
+<p><b>4. Customer Satisfaction (CSAT)</b></p>
+<ul>
+	<li>Customer feedback collected via surveys</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Mon Apr 20 15:21:29 UTC 2026 by Shrinidhi Srinivasa Bharathur using Jira 10.3.6#10030006-sha1:0dc21a711362757421d62af2e50bcb9585207f88.
+
+</body>
+</html>

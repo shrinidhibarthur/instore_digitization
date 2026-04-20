@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#ACIP-563764] [Checkout] In-Store Digitization -Spike Pricing Service Integration (Kiosk‑Like Behavior with TBD items) Understanding</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.safeway.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [ACIP-563764]&nbsp;<a href="https://jira.safeway.com/browse/ACIP-563764">[Checkout] In-Store Digitization -Spike Pricing Service Integration (Kiosk‑Like Behavior with TBD items) Understanding</a>
+            <span class="subText">
+               Created: 20/Apr/26                   &nbsp;Updated: 20/Apr/26
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Open</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://jira.safeway.com/secure/BrowseProject.jspa?id=14653">ACI Digital Portfolio</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                                        <a title="FE26.06.2"
+                href="https://jira.safeway.com/issues/?jql=project%3D14653%20AND%20%22fixVersion%22%3D31149%20ORDER%20BY%20priority%20ASC"
+            >FE26.06.2</a>                        </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Not Yet Prioritized
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="RYADA16" id="word_reporter_RYADA16" href="https://jira.safeway.com/secure/ViewProfile.jspa?name=RYADA16">Ravi Yadav</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="RYADA16" id="word_assignee_RYADA16" href="https://jira.safeway.com/secure/ViewProfile.jspa?name=RYADA16">Ravi Yadav</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-4512284-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue Links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Cloners</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                clones
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-562796">
+                     ACIP-562796                 </a>
+            </td>
+            <td>
+                [Checkout] In-Store Digitization - Pr...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+                                                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Dev-Tasks</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                Dev-Tasks
+            </td>
+            <td>
+                <a href="https://jira.safeway.com/browse/ACIP-554203">
+                     ACIP-554203                 </a>
+            </td>
+            <td>
+                Cart &amp; Checkout: In-store digitizatio...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Link:</b></td>
+                <td id="customfield_10000-4512284-value" class="value" bgcolor="#ffffff" width="80%">
+    <a class="aui-label ghx-label-1" href="https://jira.safeway.com/browse/ACIP-537202">
+        Cart &amp; Checkout: In-store digitization of orders
+    </a>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Pillar:</b></td>
+                <td id="customfield_11600-4512284-value" class="value" bgcolor="#ffffff" width="80%">    Shopper Experience
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Team:</b></td>
+                <td id="customfield_10600-4512284-value" class="value" bgcolor="#ffffff" width="80%"><img class="jpo-team-field-avatar" src="https://jira.safeway.com/download/resources/com.atlassian.teams:jpo-wr-images-and-fonts/images/teams/default-avatar.svg"/><span>Shopper Experience - Cart and Checkout</span><img class="jpo-team-field-shareable-icon" src="https://jira.safeway.com/download/resources/com.atlassian.teams:jpo-wr-images-and-fonts/images-common/misc/shared-red.svg"/></td>
+            </tr>
+                                                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10004-4512284-value" class="value" bgcolor="#ffffff" width="80%">CheckoutSprint 26.03.1</td>
+            </tr>
+                                                                                                                                                                                                                                                                    <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>MPO ID:</b></td>
+                <td id="customfield_13305-4512284-value" class="value" bgcolor="#ffffff" width="80%">
+
+
+    <div class="shorten" id="customfield_13305-field">
+        							<span>27425 Associate expereince: order management via AcuView for Custom Cakes</span>			            </div>
+</td>
+            </tr>
+                                                                                    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>As a</b> system<br/>
+<b>I want</b> pricing services applied similarly to kiosk orders<br/>
+<b>So that</b> fixed‑price items are validated correctly</p>
+<h4><a name="AcceptanceCriteria"></a>Acceptance Criteria</h4>
+<ul>
+	<li>Pricing service is invoked for eligible items</li>
+	<li>TBD items (<b>Creative Cake / Custom Tray</b>) bypass pricing</li>
+	<li>No EPE/Offers/FAS to Pricing similar to Kiosk</li>
+	<li>Estimated total rules are respected per cart composition</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Mon Apr 20 15:24:40 UTC 2026 by Shrinidhi Srinivasa Bharathur using Jira 10.3.6#10030006-sha1:0dc21a711362757421d62af2e50bcb9585207f88.
+
+</body>
+</html>

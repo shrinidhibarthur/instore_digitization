@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#ACIP-537202] Cart &amp; Checkout: In-store digitization of orders</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://jira.safeway.com/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [ACIP-537202]&nbsp;<a href="https://jira.safeway.com/browse/ACIP-537202">Cart &amp; Checkout: In-store digitization of orders</a>
+            <span class="subText">
+               Created: 05/Feb/26                   &nbsp;Updated: 20/Apr/26
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Committed</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://jira.safeway.com/secure/BrowseProject.jspa?id=14653">ACI Digital Portfolio</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Epic
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Not Yet Prioritized
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                            <a class="user-hover" rel="PSHAH32" id="word_reporter_PSHAH32" href="https://jira.safeway.com/secure/ViewProfile.jspa?name=PSHAH32">Priyal Shah</a>
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                            <a class="user-hover" rel="pchau11" id="word_assignee_pchau11" href="https://jira.safeway.com/secure/ViewProfile.jspa?name=pchau11">Priyanka Chaudhary</a>
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-4410828-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://jira.safeway.com/images/icons/attach/image.gif" height="16" width="16" border="0" alt="PNG File" role="presentation">
+                    Screenshot 2026-02-18 at 12.16.11 PM.png &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Name:</b></td>
+                <td id="customfield_10002-4410828-value" class="value" bgcolor="#ffffff" width="80%">      Cart &amp; Checkout: In-store digitization of orders
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Pillar:</b></td>
+                <td id="customfield_11600-4410828-value" class="value" bgcolor="#ffffff" width="80%">    Omni Channel
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Team:</b></td>
+                <td id="customfield_10600-4410828-value" class="value" bgcolor="#ffffff" width="80%"><img class="jpo-team-field-avatar" src="https://jira.safeway.com/download/resources/com.atlassian.teams:jpo-wr-images-and-fonts/images/teams/default-avatar.svg"/><span>Shopper Experience - Cart and Checkout</span><img class="jpo-team-field-shareable-icon" src="https://jira.safeway.com/download/resources/com.atlassian.teams:jpo-wr-images-and-fonts/images-common/misc/shared-red.svg"/></td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Parent Link:</b></td>
+                <td id="customfield_10601-4410828-value" class="value" bgcolor="#ffffff" width="80%">
+<img class="jpo-parent-field-issue-type-icon" src="https://jira.safeway.com/secure/viewavatar?size=xsmall&amp;avatarId=10311&amp;avatarType=issuetype"/><a class="jpo-parent-field-issue-key" href="https://jira.safeway.com/browse/ACIP-536162">ACIP-536162</a><span>Build Q1 26: Associate: In-store Order Intake Digitization</span></td>
+            </tr>
+                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story Points:</b></td>
+                <td id="customfield_10006-4410828-value" class="value" bgcolor="#ffffff" width="80%">    40
+</td>
+            </tr>
+                                                                                                                                                                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>MPO ID:</b></td>
+                <td id="customfield_13305-4410828-value" class="value" bgcolor="#ffffff" width="80%">
+
+
+    <div class="shorten" id="customfield_13305-field">
+        							<span>27425 Associate expereince: order management via AcuView for Custom Cakes</span>			            </div>
+</td>
+            </tr>
+                                            <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Color:</b></td>
+                <td id="customfield_10003-4410828-value" class="value" bgcolor="#ffffff" width="80%">      ghx-label-1
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>*Initiative details can be found here: <a href="https://jira.safeway.com/browse/ACIP-536162*" class="external-link" rel="nofollow">https://jira.safeway.com/browse/ACIP-536162*</a></p>
+
+<p><b>Overview:</b> For In-store orders (Bakery and Deli service dept), associates can take the order using ACI tablets digital order form for long prep items.</p>
+
+<p><b>Detailed requirements:</b> <a href="https://confluence.safeway.com/spaces/CDT/pages/597829096/Requirements+Areas+of+Work" class="external-link" target="_blank" rel="nofollow noopener">https://confluence.safeway.com/spaces/CDT/pages/597829096/Requirements+Areas+of+Work</a></p>
+<ul>
+	<li><b>Service Dept</b> - Bakery and Deli</li>
+	<li><b>Use Cases:</b> Ability for associates to take order digitally on tablet for: 1) Bakery Order 2) Bakery Catering Tray order 3) Deli Party Trays 4) Deli Holiday Meals</li>
+	<li><b>Order Type</b> - In-Store MTO Order</li>
+</ul>
+
+
+<p><b>To Do for Cart &amp; Checkout:</b></p>
+
+<p>1) Attributes</p>
+<ul>
+	<li>Support new attribute to support and enable in-store digital intake orders</li>
+	<li>Might require additional attributes for capturing <ins>associate</ins> info as they will be taking this order for the customer,</li>
+</ul>
+
+
+<p>2) There will be NO payment when order is captured, so support orders without payment</p>
+
+<p>3) Process these orders as in-store orders (NOT ecom orders, not follow ecommerce workflow)</p>
+
+<p>5) No picker (AcuPick) integration. Order should go to DOMS.</p>
+
+<p>6) No Slot integration</p>
+
+<p>7) Associate can initiated Cancel Order for this cart but C&amp;C dont have to make any changes its out of scope to update status for the order </p>
+
+<p>8) Cart category will be 1P_MTO_Kiosk </p>
+
+<p>9) Pricing services is in scope (similar to Kiosk)</p>
+
+<p>8) Associate can initiate Edit Order for this cart <b><font color="#de350b">(POST MLP)</font></b></p>
+
+<p><font color="#4c9aff"><b>Added scope:</b> </font></p>
+
+<p><font color="#4c9aff"><b>9) If the order for creative cake and custom tray it should not have price (as price is TBD)</b><br/>
+<b>10) when cart just have TBD item dont show price</b> </font></p>
+
+<p><font color="#4c9aff"><b>11) If the cart is mixed , fixed price item and creative cake or custom tray price will only be should for fixed price item creative cake or custom tray should show $0 .00 and est total should be $0.00</b></font></p>
+
+<p><font color="#4c9aff"><b>12)</b> <b>Field should be added for message currently we have 2 feild for message going forward its should be 3</b></font></p>
+
+<p><font color="#4c9aff"><b>-Decoration instruction</b></font><br/>
+<font color="#4c9aff"><b>-message /in</b></font><br/>
+<font color="#4c9aff"><b>-additional message</b></font></p>
+
+<p> </p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-4205003"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="MSACH12" id="word_commented_MSACH12" href="https://jira.safeway.com/secure/ViewProfile.jspa?name=MSACH12">Mamatha Sachidanandamurthy</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">23/Feb/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-4205003"><td bgcolor="#ffffff">
+            <p>Adding 8SP to consider Project Management and high level architecture effort.</p>
+        </td></tr>
+                <tr id="comment-header-4202864"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="avima01" id="word_commented_avima01" href="https://jira.safeway.com/secure/ViewProfile.jspa?name=avima01">Amrendra Vimal</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">20/Feb/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-4202864"><td bgcolor="#ffffff">
+            <p><b>Estimation</b> :</p>
+
+<p>Key Points considered(Assumptions) for estimations:<br/>
+&#8211; Associate Details needs to be captured.<br/>
+&#8211; Privacy Conscent Capture.<br/>
+&#8211; Post Capture Cancellation Out of scope.<br/>
+&#8211; Auto Cancellation or pre-order cancellation in scope.<br/>
+&#8211; Slot validation will remain as is what we do for MTO-Kiosk.<br/>
+&#8211; Orders will be taken as a seperate order other than regular ecom Order and will be published to DOMS.<br/>
+&#8211; Payments or allocations would not be captured.<br/>
+&#8211; Tax, Offers, EPE, FAS integration would not be there for such orders.<br/>
+&#8211; This would also have ticketing integration.<br/>
+&#8211; These order can't be edited</p>
+
+<p>Note: Post order capture no changes discussed for fulfillment re-pricing flow.</p>
+
+<p><b>Resource - Total  Sprints - 4 ( 32 SP)</b> <br/>
+Service → 4 sprints (0.5 Sprint Spike, 2.5 Sprint Dev, .5 Sprint Auto, 0.5 Sprint QA) - 4 sprints)</p>
+<ul class="alternate" type="square">
+	<li>3 services impacted(Cart, Checkout, Order)</li>
+</ul>
+
+
+<p><b>Parallel: 2 Sprints</b></p>
+
+        </td></tr>
+                <tr id="comment-header-4197490"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                        <a class="user-hover" rel="avima01" id="word_commented_avima01" href="https://jira.safeway.com/secure/ViewProfile.jspa?name=avima01">Amrendra Vimal</a>
+                                        <font size="-2">
+            [
+                <font color="#336699">18/Feb/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-4197490"><td bgcolor="#ffffff">
+            <p>Note: Post order Capture - Cancel Order is not handled at Cart &amp; Checkout end, our estimations(WIP) would be excluding line item 7. <br/>
+<span class="image-wrap" style=""><a id="2967926_thumb" href="https://jira.safeway.com/secure/attachment/2967926/2967926_Screenshot+2026-02-18+at+12.16.11%E2%80%AFPM.png" title="Screenshot 2026-02-18 at 12.16.11 PM.png" file-preview-type="image" file-preview-id="2967926" file-preview-title="Screenshot 2026-02-18 at 12.16.11 PM.png"><img src="https://jira.safeway.com/secure/thumbnail/2967926/_thumb_2967926.png" style="border: 0px solid black" role="presentation"/></a></span> </p>
+        </td></tr>
+            </table>
+Generated at Mon Apr 20 15:19:40 UTC 2026 by Shrinidhi Srinivasa Bharathur using Jira 10.3.6#10030006-sha1:0dc21a711362757421d62af2e50bcb9585207f88.
+
+</body>
+</html>
