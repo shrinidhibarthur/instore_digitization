@@ -1,0 +1,533 @@
+{
+    "repository": "https://github.com/shrinidhibarthur/instore_digitization",
+    "generated_at": "2026-04-21T08:15:51.436005",
+    "output_folder": "notebooklm_sources",
+    "documents": [
+        {
+            "file": "01_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        },
+        {
+            "file": "02_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        },
+        {
+            "file": "03_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        },
+        {
+            "file": "04_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        },
+        {
+            "file": "05_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        },
+        {
+            "file": "06_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        },
+        {
+            "file": "07_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        },
+        {
+            "file": "08_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        },
+        {
+            "file": "09_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        },
+        {
+            "file": "10_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        },
+        {
+            "file": "11_*",
+            "theme": "Various",
+            "purpose": "Convert repo to NotebookLM",
+            "source_files": [
+                "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+                "Digital order In-take forms pickup day.pdf",
+                "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+                "ACIP-536162.doc",
+                "ACIP-537202.doc",
+                "ACIP-554203.doc",
+                "ACIP-556262.doc",
+                "ACIP-562777.doc",
+                "ACIP-562780.doc",
+                "ACIP-562782.doc",
+                "ACIP-562785.doc",
+                "ACIP-562786.doc",
+                "ACIP-562789.doc",
+                "ACIP-562793.doc",
+                "ACIP-562796.doc",
+                "ACIP-562799.doc",
+                "ACIP-562801.doc",
+                "ACIP-563755.doc",
+                "ACIP-563759.doc",
+                "ACIP-563764.doc",
+                "ACIP-563765.doc"
+            ],
+            "key_topics": [
+                "architecture",
+                "requirements"
+            ]
+        }
+    ],
+    "source_file_index": [
+        {
+            "source_file": "597829096_1160d5dfc25940a6bd7ed774e725304a-200426-0821-2165.pdf",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "Digital order In-take forms pickup day.pdf",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "Solution Architecture - Digitize_25475501a28548a0850cf73602fef8d9-200426-0831-2169.pdf",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-536162.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-537202.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-554203.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-556262.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-562777.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-562780.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-562782.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-562785.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-562786.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-562789.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-562793.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-562796.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-562799.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-562801.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-563755.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-563759.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-563764.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        },
+        {
+            "source_file": "ACIP-563765.doc",
+            "included_in_documents": [
+                "01_Master_Knowledge_Map.docx",
+                "07_Workflows_User_Journeys_and_Business_Logic.docx"
+            ],
+            "knowledge_extracted": "Project requirements and architecture"
+        }
+    ],
+    "excluded_files": [],
+    "gaps_or_warnings": [
+        "Repository contains no source code, only Jira HTML exports (.doc) and PDF diagrams. Documents generated reflect this documentation-only nature."
+    ]
+}
